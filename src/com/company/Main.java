@@ -9,7 +9,6 @@ public class Main {
 
         String[] palindrome = new String[]{"civic", "keyboard", "deified", "monkey", "radar", "greedy", "fries", "level"};
 
-
         for (String s : palindromeFinder(palindrome)) {
             System.out.println(s);
         }
